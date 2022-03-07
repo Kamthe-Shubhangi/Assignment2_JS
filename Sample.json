@@ -1,0 +1,44 @@
+[
+    {
+      "index": 0,
+      "name": "Sampson Cunningham",
+      "age": 23,
+      "eyeColor": "blue",
+      "gender": "male"
+    },
+    {
+      "index": 1,
+      "name": "Ruiz Horne",
+      "age": 38,
+      "eyeColor": "blue",
+      "gender": "male"
+    },
+    {
+      "index": 2,
+      "name": "Ellen Ferrell",
+      "age": 31,
+      "eyeColor": "brown",
+      "gender": "female"
+    },
+    {
+      "index": 3,
+      "name": "Marian Robles",
+      "age": 28,
+      "eyeColor": "blue",
+      "gender": "female"
+    },
+    {
+      "index": 4,
+      "name": "Winnie Daniel",
+      "age": 20,
+      "eyeColor": "brown",
+    "gender": "female"
+  },
+  {
+    "index": 5,
+    "name": "Kris Logan",
+    "age": 30,
+    "eyeColor": "blue",
+    "gender": "female"
+  }
+]
